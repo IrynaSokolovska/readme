@@ -1,4 +1,4 @@
-# Water-Tracker
+# Water-Tracker frontend
 
 **Water-Tracker** is an application for daily tracking of the level of water you drink.
 You can [open](https://github.com/OhWellNevermind/water-tracker?tab=readme-ov-file) it in your browser.
@@ -14,8 +14,10 @@ Currently, two official plugins are available:
 
 - <a href="https://github.com/vitejs/vite-plugin-react-swc">@vitejs/plugin-react-swc</a>uses <a href="https://swc.rs/" rel="nofollow">SWC</a> for Fast Refresh;
 
-## Преимущества
+## Setup instructions
 
-- Понятный материал;
-- Нескучные объяснения;
-- Удобный поиск.
+1. Clone the repository to your local machine.
+
+2. Install all dependencies on the command **npm install**.
+
+3. Command for start is **npm run dev**.
