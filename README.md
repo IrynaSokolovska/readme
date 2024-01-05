@@ -41,20 +41,24 @@ Currently, two official plugins are available:
 - **Rest API** - used to create an API using the HTTP protocol;
 
 - **Git** - this version control system was used to: store information about all changes in the code, starting from the very first line, and also to ensure the convenience of team work on the code;
-- Axios;
+
+- **Axios** - the interface of this JS library, designed to handle asynchronous requests, was used to make HTTP requests in the browser and on the server side;
 
 - **Formik** - this open source library for React was used for form state management, form validation and form submission;
 
-- Yup;
+- **Yup** - this library was used for JS object validation;
 - Styled components;
 
-- React Dom - the possibility of providing separate modules for client and server applications was used;
+- **React Dom** - the possibility of providing separate modules for client and server applications was used;
 
-- React hot toast - the application used ready-made, well-animated notifications for React;
+- **React-hot-toast** - the application used ready-made, well-animated notifications for React;
 
-- Reset css - used to ensure cross-browser style compatibility;
+- **Reset-css** - used to ensure cross-browser style compatibility;
 
-- React-loader-spinner;
-- Modern-normalize;
-- React-select;
-- Flexbox;
+- **React-loader-spinner** - used as a simple Spinner component to implement an asynchronous wait operation before loading data;
+
+- **Modern-normalize** - used to ensure the same styles across different browsers and keep them consistent;
+
+- **React-select** - used as a control element;
+
+- **Flexbox** - this CSS-module is used as one of the methods for distributing space between elements in the interface.
